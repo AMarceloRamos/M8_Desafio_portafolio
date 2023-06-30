@@ -73,3 +73,4 @@ group :test do
 end
 gem "guard", "~> 2.18"
 gem "bootstrap", "~> 5.2"
+gem 'font-awesome-sass', '~> 5.0'
